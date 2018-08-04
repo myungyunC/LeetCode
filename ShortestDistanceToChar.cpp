@@ -34,7 +34,7 @@ int main() {
     for (auto &x : output) {
         cout << x << " ";
     }
-    
+     
         
     
     return 0;
