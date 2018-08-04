@@ -118,4 +118,4 @@ bool invalid(vector<vector<char>> &grid, int row, int col) {
         grid[row][col] != '1')        //checks for edges, if it's not an island (0), or if it's visited (-1)
         return true;
     return false;
-}
+} 
